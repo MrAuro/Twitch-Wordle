@@ -1,0 +1,11 @@
+{
+	"name": "Twitch-Wordle",
+	"type": "module",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "Auro <35087590+MrAuro@users.noreply.github.com>",
+	"license": "MIT",
+	"dependencies": {
+		"axios": "^0.26.0"
+	}
+}
